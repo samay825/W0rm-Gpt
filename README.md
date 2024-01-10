@@ -12,7 +12,6 @@ _Don't use this to take revenge_<br />
 ## About
 * `Unlimited Questions prompt`
 * `Cross Platform`
-* `Supports newest Android also`
 * `No balance will be deducted to ask`
 * `Working Apis`
 * `No missing Api issues,`
