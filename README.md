@@ -20,6 +20,7 @@ _Don't use this to take revenge_<br />
 ## Tested On :
 <ul>
   <li>Kali Linux</li>
+  <li>Termux</li>
   <li>Ubuntu</li>
   <li>Parrot Sec OS</li>
   <li>Kali nethunter</li>
