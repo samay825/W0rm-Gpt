@@ -94,6 +94,10 @@ Go to the W0rm-Gpt directory
 ```bash
 cd W0rm-Gpt
 ```
+Now Install the Requirements 
+```bash
+pip install -r requirements.txt
+```
 Run the script
 ```bash
 sudo python3 main.py
