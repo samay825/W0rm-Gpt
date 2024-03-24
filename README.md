@@ -2,7 +2,7 @@
 </h1>
 <img src="logoworm.png" alt="Paris" class="center">
 * `📱 💀`<br />
-* `A W0rm-GPT for termux & Linux `
+* `A W0rm-GPT for termux `
 
 ## Disclaimer
 *This tool is for educational purposes only !*
@@ -75,34 +75,6 @@ python3 main.py
 ```
 
 
-
-#### For Debian-based GNU/Linux distributions
-
-Update the packages
-```bash
-apt-get update; apt-get upgrade -y
-```
-Install some dependencies
-```bash
-apt-get install git wget python3 -y
-```
-Clone the repository
-```bash
-git clone https://github.com/samay825/W0rm-Gpt
-```
-Go to the W0rm-Gpt directory
-```bash
-cd W0rm-Gpt
-```
-Now Install the Requirements 
-```bash
-pip install -r requirements.txt
-```
-Run the script
-```bash
-sudo python3 main.py
-```
-
 ## Get the Token
 
 You'll get that in the telegram channel !
@@ -129,7 +101,7 @@ Apache 2.0 © Samay825
 
 ## Telegram Channel
 
-* `All updates of Team Sincryption will be posted here !`
+* `All updates of Team Sincryption will be posted here >> t.me/TeamSincryption`
 
 <a href="https://t.me/TeamSincryption">
          <img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png">
