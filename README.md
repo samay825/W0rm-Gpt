@@ -1,6 +1,6 @@
 <h1 align="center">W0rm-GPT<br>
 </h1>
-<img src="logoworm.png" alt="Paris" class="center">
+<img src="wormgptv2.png" alt="Paris" class="center">
 * `📱 💀`<br />
 * `A W0rm-GPT for termux `
 
